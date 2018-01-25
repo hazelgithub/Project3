@@ -24,6 +24,8 @@ while i <= len(b):
     print (b[i])
     i = i + 1
 
-c = mult(3,1)
+
+c = add(3,1)
+
 print(c)
 
